@@ -13,7 +13,7 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 
 ## 環境構築
 
-まずは local や wp-env や [instaWP](https://instawp.com/) などで新しいWordPressの環境を用意してください。
+まずは [local](https://training.vektor-inc.co.jp/courses/how-to-run-wordpress-site/lessons/development-environment/) や [wp-env](https://ja.wordpress.org/team/handbook/block-editor/getting-started/devenv/get-started-with-wp-env/) や [instaWP](https://instawp.com/) などで新しいWordPressの環境を用意してください。
 
 ### 初期設定と各種インストール
 
