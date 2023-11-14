@@ -11,6 +11,10 @@ https://pattern-lesson.instawp.xyz/
 * 歯科医院 クリニック紹介  
 https://pattern-lesson.instawp.xyz/clinic-introduction/
 
+## 素材について
+
+このリポジトリの images ディレクトリに入ってますので、必要に応じてリポジトリをダンロードしたりcloneしてください。
+
 ## 環境構築
 
 まずは [local](https://training.vektor-inc.co.jp/courses/how-to-run-wordpress-site/lessons/development-environment/) や [wp-env](https://ja.wordpress.org/team/handbook/block-editor/getting-started/devenv/get-started-with-wp-env/) や [instaWP](https://instawp.com/) などで新しいWordPressの環境を用意してください。
