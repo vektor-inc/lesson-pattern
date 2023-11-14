@@ -154,6 +154,9 @@ https://patterns.vektor-inc.co.jp/vk-patterns/dental-clinic_reception_time/
 お手本では以下を使用  
 https://patterns.vektor-inc.co.jp/vk-patterns/icon-and-card-pr-section-free/
 
+* とりあえず背景画像を変更
+* 以下科目を入力
+
 一般歯科  
 軽度の虫歯はできるだけ削らない治療を心がけております。
 
