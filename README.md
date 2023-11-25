@@ -146,6 +146,8 @@ https://patterns.vektor-inc.co.jp/vk-patterns/hero_textbox_slider-1/
 お気軽にご相談ください。
 ```
 
+* スライダーの下に レスポンシブスペーサー ブロックを配置して余白サイズを L に
+
 #### ■ お知らせ
 
 * [無料 & 投稿リスト で検索](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-industry=&pattern-category=post-list-section&demo-site=&post_date_range_after=&post_date_range_before=&s=&vkfs_orderby=&vkfs_form_id=b0df8947-cedf-4943-91fb-f1a069bfdeb0)
@@ -161,7 +163,9 @@ https://patterns.vektor-inc.co.jp/vk-patterns/post-list-content-for-top/
 https://patterns.vektor-inc.co.jp/vk-patterns/dental-clinic_reception_time/
 
 
-* カラムブロックを配置して「お知らせ」と「診療時間」を左右に配置
+* カラムブロックを配置して 50 - 50 にする
+* 「お知らせ」と「診療時間」を左右に配置
+* カラムブロックのスタイルから間隔を 3rem で指定
 
 #### ■ 診療案内
 
