@@ -186,6 +186,11 @@ https://patterns.vektor-inc.co.jp/vk-patterns/icon-and-card-pr-section-free/
 矯正歯科  
 矯正歯科では、歯並びと咬み合わせを改善するための治療を提供します。
 
+* アイコンを入れ替え  
+Font Awesome のサイトで dental や tooth で検索
+
+
+
 ※ 以下オマケ
 
 歯周病治療  
@@ -223,6 +228,9 @@ https://patterns.vektor-inc.co.jp/vk-patterns/10686/
 
 お手本では以下を使用  
 https://patterns.vektor-inc.co.jp/vk-patterns/iframe-fullwidth/
+
+* Google Map を開いて、表示したい箇所を表示
+* 埋め込み用の iframe のコードをコピーして、HTMLブロックの中身を差し替え
 
 お好みに応じて地図を差し替え
 
