@@ -1,5 +1,7 @@
 # サクサク進む! <br>WordPressページ制作ワークショップ
 
+## https://github.com/vektor-inc/lesson-pattern
+
 ブロックパターンを使ってウェブページを作る事に慣れるためのレッスン素材です。
 
 ## 完成イメージ
