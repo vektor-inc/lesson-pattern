@@ -238,6 +238,18 @@ https://patterns.vektor-inc.co.jp/vk-patterns/iframe-fullwidth/
 
 ---
 
+■ instaWPをご利用の場合
+
+一定時間で消えてしまうのでデータをエクスポートしてください。
+
+プラグイン All in One WP Migration をインストール > 有効化 してエクスポート  
+https://ja.wordpress.org/plugins/all-in-one-wp-migration/
+
+↓ 参考  
+https://training.vektor-inc.co.jp/courses/how-to-run-wordpress-site/lessons/all-in-one-wp-migration/
+
+---
+
 ## おまけ
 
 Lightning の場合
