@@ -238,7 +238,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/iframe-fullwidth/
 
 * とりあえず見出しとサブテキストを入力  
 既に作成済みの見出しとテキストや余白を複製して打ち替えればOK
-* ヒーローエリア下の診療時間の部分を再利用ブロック化して複製して配置
+* ヒーローエリア下の診療時間の部分を同期パターン（再利用ブロック）化して複製して配置
 * [電話番号と遅い合わせ](https://patterns.vektor-inc.co.jp/vk-patterns/business-tel-and-button-vertical/) のパターンを配置
 * 以下の文字を打ち替え
 
@@ -248,7 +248,8 @@ https://patterns.vektor-inc.co.jp/vk-patterns/iframe-fullwidth/
 ネット予約  
 24時間受付
 
-* 地図から下の部分をグループ化して上部に2pxの線を指定
+* 地図から下の部分をグループ化
+* グループブロックの上部に2pxの線を指定
 
 ---
 
