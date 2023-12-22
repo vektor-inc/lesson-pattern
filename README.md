@@ -126,7 +126,7 @@ https://pattern-lesson.instawp.xyz/
 
 まずヒーローエリアに表示するパターンを選びましょう。
 
-[無料 & ヒーローエリア](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-industry=&pattern-category=heroarea&demo-site=&post_date_range_after=&post_date_range_before=&s=&vkfs_orderby=&vkfs_form_id=b0df8947-cedf-4943-91fb-f1a069bfdeb0) で絞り込むといろいろ出てきます。
+[無料 & ヒーローエリア](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-industry=&pattern-category=heroarea&demo-site=&post_date_date_after=&post_date_date_before=&s=&vkfs_orderby=&vkfs_form_id=11755) で絞り込むといろいろ出てきます。
 
 
 
@@ -150,14 +150,14 @@ https://patterns.vektor-inc.co.jp/vk-patterns/hero_textbox_slider-1/
 
 #### ■ お知らせ
 
-* [無料 & 投稿リスト で検索](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-industry=&pattern-category=post-list-section&demo-site=&post_date_range_after=&post_date_range_before=&s=&vkfs_orderby=&vkfs_form_id=b0df8947-cedf-4943-91fb-f1a069bfdeb0)
+* [無料 & 投稿リスト で検索](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-industry=&pattern-category=post-list-section&demo-site=&post_date_date_after=&post_date_date_before=&s=&vkfs_orderby=&vkfs_form_id=11755)
 
 お手本サイトでは以下を使用  
 https://patterns.vektor-inc.co.jp/vk-patterns/post-list-content-for-top/
 
 #### ■ 診療時間
 
-* [無料 & 業種:医療](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-industry=medical&demo-site=&post_date_range_after=&post_date_range_before=&s=&vkfs_orderby=&vkfs_form_id=b0df8947-cedf-4943-91fb-f1a069bfdeb0) で検索
+* [無料 & 業種:医療](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-industry=medical&demo-site=&post_date_date_after=&post_date_date_before=&s=&vkfs_orderby=&vkfs_form_id=11755) で検索
 
 お手本サイトでは以下を使用  
 https://patterns.vektor-inc.co.jp/vk-patterns/dental-clinic_reception_time/
@@ -204,7 +204,7 @@ Font Awesome のサイトで dental や tooth で検索
 
 #### ■ 採用情報
 
-[無料 & セクション](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-type=section&pattern-industry=&demo-site=&post_date_range_after=&post_date_range_before=&s=&vkfs_orderby=date.desc&vkfs_form_id=b0df8947-cedf-4943-91fb-f1a069bfdeb0) で検索
+[無料 & セクション & カラムレイアウト](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-type=section&pattern-industry=&pattern-category=column&demo-site=&post_date_date_after=&post_date_date_before=&s=&vkfs_orderby=&vkfs_form_id=11755) で検索
 
 お手本では以下を使用  
 https://patterns.vektor-inc.co.jp/vk-patterns/10686/
@@ -224,7 +224,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/10686/
 
 #### ■ 地図
 
-[地図](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=&pattern-industry=&pattern-category=map&demo-site=&post_date_range_after=&post_date_range_before=&s=&vkfs_orderby=&vkfs_form_id=b0df8947-cedf-4943-91fb-f1a069bfdeb0)で検索
+[地図](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-industry=&pattern-category=map&demo-site=&post_date_date_after=&post_date_date_before=&s=&vkfs_orderby=&vkfs_form_id=11755)で検索
 
 お手本では以下を使用  
 https://patterns.vektor-inc.co.jp/vk-patterns/iframe-fullwidth/
@@ -239,7 +239,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/iframe-fullwidth/
 * とりあえず見出しとサブテキストを入力  
 既に作成済みの見出しとテキストや余白を複製して打ち替えればOK
 * ヒーローエリア下の診療時間の部分を同期パターン（再利用ブロック）化して複製して配置
-* [電話番号と遅い合わせ](https://patterns.vektor-inc.co.jp/vk-patterns/business-tel-and-button-vertical/) のパターンを配置
+* [電話番号とお問い合わせ](https://patterns.vektor-inc.co.jp/vk-patterns/business-tel-and-button-vertical/) のパターンを配置
 * 以下の文字を打ち替え
 
 受付 8:30-12:00 / 14:30-19:30  
