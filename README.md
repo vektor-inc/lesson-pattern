@@ -136,15 +136,15 @@ https://patterns.vektor-inc.co.jp/vk-patterns/hero_textbox_slider-1/
 * コピペすると、元々がスライダーなので複数枚分あります。今回は一つで良いので、余分な「スライダーアイテム」ブロックを削除してください。
 * 掲載文字↓
 
-```
-健康な一日は健康な一歯から
-信頼と実績あなたの街の歯科診療
 
-健康な一日は健康な一歯から、信頼と実績のある当院で。
-最新の技術と温かな対応で、あなたと家族の笑顔を守ります。
-地域に根差し、皆さまの口腔健康を第一に考えたケアをお届け。
+健康な一日は健康な一歯から  
+信頼と実績あなたの街の歯科診療  
+
+健康な一日は健康な一歯から、信頼と実績のある当院で。  
+最新の技術と温かな対応で、あなたと家族の笑顔を守ります。  
+地域に根差し、皆さまの口腔健康を第一に考えたケアをお届け。  
 お気軽にご相談ください。
-```
+
 
 * スライダーの下に レスポンシブスペーサー ブロックを配置して余白サイズを L に
 
@@ -169,7 +169,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/dental-clinic_reception_time/
 
 #### ■ 診療案内
 
-[無料 & セクション](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-type=section&pattern-industry=&demo-site=&post_date_range_after=&post_date_range_before=&s=&vkfs_orderby=date.desc&vkfs_form_id=b0df8947-cedf-4943-91fb-f1a069bfdeb0) で検索
+[無料 & セクション & カラムレイアウト](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-type=section&pattern-industry=&pattern-category=column&demo-site=&post_date_date_after=&post_date_date_before=&s=&vkfs_orderby=&vkfs_form_id=11755) で検索
 
 お手本では以下を使用  
 https://patterns.vektor-inc.co.jp/vk-patterns/icon-and-card-pr-section-free/
