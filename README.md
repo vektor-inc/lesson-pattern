@@ -195,8 +195,9 @@ https://patterns.vektor-inc.co.jp/vk-patterns/icon-and-card-pr-section-free/
 矯正歯科  
 矯正歯科では、歯並びと咬み合わせを改善するための治療を提供します。
 
-* アイコンを入れ替え  
-Font Awesome のサイトで dental や tooth で検索
+* アイコンを入れ替え
+アイコンをクリックすると右の設定サイドバーから変更できる。
+[Font Awesome アイコンリスト](https://fontawesome.com/search?o=r&m=free) のサイトで dental や tooth で検索
 
 
 
