@@ -23,7 +23,7 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 
 練習だけであれば以下のURLから各種セットアップ済みの環境を起動する事ができます。
 
-[ [練習環境を起動する](https://app.instawp.io/launch?t=pattarn-lesson-starter&d=v2) ]
+[ [instaWPの練習環境を起動する](https://app.instawp.io/launch?t=pattarn-lesson-starter&d=v2) ]
 
 ※ この環境は数日で消失します。データがほしい場合はご自身でエクスポートしてください。  
 ※ こちらの環境で練習する場合はこのまま 「ページ制作」 までスキップしてください。
@@ -31,8 +31,6 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 ### 練習環境を自分で用意する場合
 
 まずは [local](https://training.vektor-inc.co.jp/courses/how-to-run-wordpress-site/lessons/development-environment/) や [wp-env](https://ja.wordpress.org/team/handbook/block-editor/getting-started/devenv/get-started-with-wp-env/) や [instaWP](https://instawp.com/) などで新しいWordPressの環境を用意してください。
-
-
 
 ### 初期設定と各種インストール
 
@@ -63,7 +61,12 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 
 #### Lightning の場合
 
-Lightning の場合は初期インストールすると「会社概要」という固定ページが自動的に作成されるので、そのページをクリニック紹介として編集していきます。
+##### 自分のサーバーの場合
+
+※ この手順は instaWP の練習環境の場合は不要です。「クリニック紹介」ページの編集画面に移動して、次の「リード部分」から進めてください。
+
+Lightning の場合は初期インストールすると「会社概要」という固定ページが自動的に作成されます。  その「会社概要」ページの編集画面に移動してください。
+クリニック紹介として編集していきます。
 
 編集画面右側 Lightning デザイン設定 > レイアウト設定 で「１カラム」を選択
 
