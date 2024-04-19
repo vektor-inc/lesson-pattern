@@ -105,7 +105,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/vk-cols-fit__vk-cols-grid__vk-cols
 
 ### 施設紹介２
 
-お手本ページは以下のパターンを使用しています。
+お手本ページは以下のパターンを使用しています。  
 https://patterns.vektor-inc.co.jp/vk-patterns/text-with-2-images/
 
 テキストや画像を差し替えてみましょう。
