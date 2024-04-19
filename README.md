@@ -21,6 +21,10 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 
 まずは [local](https://training.vektor-inc.co.jp/courses/how-to-run-wordpress-site/lessons/development-environment/) や [wp-env](https://ja.wordpress.org/team/handbook/block-editor/getting-started/devenv/get-started-with-wp-env/) や [instaWP](https://instawp.com/) などで新しいWordPressの環境を用意してください。
 
+練習だけであれば以下のURLから各種セットアップ済みの環境を起動する事ができます。
+
+https://app.instawp.io/launch?t=pattarn-lesson-starter&d=v2
+
 ### 初期設定と各種インストール
 
 * 設定 > 一般
