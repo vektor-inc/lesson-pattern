@@ -25,7 +25,7 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 
 [ [練習環境を起動する](https://app.instawp.io/launch?t=pattarn-lesson-starter&d=v2) ]
 
-※ この環境は数日で消失します。データがほしい場合はご自身でエクスポートしてください。
+※ この環境は数日で消失します。データがほしい場合はご自身でエクスポートしてください。  
 ※ こちらの環境で練習する場合はこのまま 「ページ制作」 までスキップしてください。
 
 ### 練習環境を自分で用意する場合
