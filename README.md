@@ -25,10 +25,10 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 
 練習だけであれば以下のURLから各種セットアップ済みの環境を起動する事ができます。
 
-* [練習環境を起動する（ X-T9版）](https://app.instawp.io/launch?t=-x-t9&d=v2) 
-* [練習環境を起動する（Lightning版）](https://app.instawp.io/launch?t=pattarn-lesson-starter&d=v2) 
+* [練習環境（テーマ : X-T9版）を起動する](https://app.instawp.io/launch?t=-x-t9&d=v2) 
+* [練習環境（テーマ : Lightning版）を起動する](https://app.instawp.io/launch?t=pattarn-lesson-starter&d=v2) 
 
-※ この環境は数日で消失します。データがほしい場合はご自身でエクスポートしてください。  
+※ この環境は24時間で消失します。練習後のデータがほしい場合はご自身でエクスポートしてください。  
 ※ こちらの環境で練習する場合はこのまま 「ページ制作」 までスキップしてください。
 
 ### 練習環境を自分で用意する場合
