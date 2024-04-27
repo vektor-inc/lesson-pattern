@@ -1,4 +1,4 @@
-# サクサク進む! <br>WordPressページ制作ワークショップ
+# Block Pattern Hands-on
 
 ## https://github.com/vektor-inc/lesson-pattern
 
