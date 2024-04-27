@@ -15,7 +15,9 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 
 ## 素材について
 
-このリポジトリの images ディレクトリに入ってますので、必要に応じてリポジトリをダンロードしたりcloneしてください。
+このリポジトリの images ディレクトリに入ってますのでダンロードしてください。ダウンロードしたzipファイルを解凍した中の images フォルダにあります。
+
+![zipファイルダウンロード](https://raw.githubusercontent.com/vektor-inc/lesson-pattern/main/text-images/download-zip.png "zipファイルダウンロード")
 
 ## 環境構築
 
@@ -23,7 +25,8 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 
 練習だけであれば以下のURLから各種セットアップ済みの環境を起動する事ができます。
 
-[ [instaWPの練習環境を起動する](https://app.instawp.io/launch?t=pattarn-lesson-starter&d=v2) ]
+* [練習環境を起動する（ X-T9版）](https://app.instawp.io/launch?t=-x-t9&d=v2) 
+* [練習環境を起動する（Lightning版）](https://app.instawp.io/launch?t=pattarn-lesson-starter&d=v2) 
 
 ※ この環境は数日で消失します。データがほしい場合はご自身でエクスポートしてください。  
 ※ こちらの環境で練習する場合はこのまま 「ページ制作」 までスキップしてください。
@@ -32,20 +35,8 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 
 まずは [local](https://training.vektor-inc.co.jp/courses/how-to-run-wordpress-site/lessons/development-environment/) や [wp-env](https://ja.wordpress.org/team/handbook/block-editor/getting-started/devenv/get-started-with-wp-env/) や [instaWP](https://instawp.com/) などで新しいWordPressの環境を用意してください。
 
-### 初期設定と各種インストール
+  * [Lightning の場合の追加設定](setup-lightning.md)
 
-* 設定 > 一般
-  - 日本語に変更
-  - 日付フォーマットの変更
-* 外観 > テーマ > 新しいテーマを追加 > Lightning をインストール  
-    - ブロックテーマに慣れている場合は Lightning でなくても X-T9 でもかまいません。
-* ダッシュボードの案内に従って プラグイン VK All in One Expansion Unit / VK Blocks / VK Block Patterns をインストール  
-（ダッシュボードに新たにお知らせなどが表示されるが非表示にしたり無視してかまいません）
-
-### 余分な要素の削除
-* 外観 > カスタマイズ > Lightning トップページスライドショー設定 > スライドを非表示に設定
-* 外観 > カスタマイズ > ウィジェット > フッター上部 に入ってるものを削除  
-* カスタマイズ画面を一旦保存（初期コンテンツが入る）
 
 ---
 
