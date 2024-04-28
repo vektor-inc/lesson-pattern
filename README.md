@@ -29,14 +29,6 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 * [練習環境（テーマ : Lightning版）を起動する](https://app.instawp.io/launch?t=pattarn-lesson-starter&d=v2) 
 
 ※ この環境は24時間で消失します。練習後のデータがほしい場合はご自身でエクスポートしてください。  
-※ こちらの環境で練習する場合はこのまま 「ページ制作」 までスキップしてください。
-
-### 練習環境を自分で用意する場合
-
-まずは [local](https://training.vektor-inc.co.jp/courses/how-to-run-wordpress-site/lessons/development-environment/) や [wp-env](https://ja.wordpress.org/team/handbook/block-editor/getting-started/devenv/get-started-with-wp-env/) や [instaWP](https://instawp.com/) などで新しいWordPressの環境を用意してください。
-
-  * [自分の環境で Lightning でセットアップする場合の追加設定](https://github.com/vektor-inc/lesson-pattern/blob/main/setup-lightning.md)
-
 
 ---
 
@@ -50,23 +42,14 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 
 https://pattern-lesson.instawp.xyz/clinic-introduction/
 
-#### Lightning の場合
-
-##### 自分のサーバーの場合
-
-※ この手順は instaWP の練習環境の場合は不要です。「クリニック紹介」ページの編集画面に移動して、次の「リード部分」から進めてください。
-
-Lightning の場合は初期インストールすると「会社概要」という固定ページが自動的に作成されます。  その「会社概要」ページの編集画面に移動してください。
-クリニック紹介として編集していきます。
-
-編集画面右側 Lightning デザイン設定 > レイアウト設定 で「１カラム」を選択
+### 会社案内 のタイトルの変更
 
 ### リード部分
 
-* まずはお手本サイトの見出しと文章をコピペして入力してください。
-* 見出しを右側のスタイルタブ（半月アイコン）から「装飾無し」のスタイルを選択。
-* 見出しを中央揃えにしてみる
-* 見出しに色をつけてみる
+* まずはお手本サイトの見出しと文章をコピペして入力してください。  
+※ 文字の一部に色がついていた部分は、作業中のサイトには存在しない色なので、黄色い背景になります。該当部分を選択して、ツールバーの ? アイコンをクリックすれば背景色がリセットされます。
+* 見出し内で部分的（背景が黄色になっていた部分）に文字の色を変更しましょう。ツールバーの中の下向きアイコンの中から「ハイライト」で色を指定する事ができます。
+* 見出しが中央揃えになっていない場合は中央揃えにしてください
 * 余力があれば見出しの改行位置を画面サイズ毎で調整
 
 ### 施設紹介
@@ -99,7 +82,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/vk-cols-fit__vk-cols-grid__vk-cols
 お手本ページは以下のパターンを使用しています。  
 https://patterns.vektor-inc.co.jp/vk-patterns/text-with-2-images/
 
-テキストや画像を差し替えてみましょう。
+お手本ページを参考にテキストや画像を差し替えてみましょう。
 
 これでクリニック紹介ページは完成です。
 
