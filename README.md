@@ -4,6 +4,8 @@
 
 ブロックパターンを使ってウェブページを作る事に慣れるためのレッスン素材です。
 
+[ → [オンラインハンズオンの場合の留意事項](https://github.com/vektor-inc/lesson-pattern/blob/main/notice-online.md) ]
+
 ## 完成イメージ
 
 以下の２つのページを作ってみます
