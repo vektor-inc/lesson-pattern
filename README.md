@@ -17,7 +17,7 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 
 ## 素材について
 
-このリポジトリの images ディレクトリに入ってますのでダンロードしてください。ダウンロードしたzipファイルを解凍した中の images フォルダにあります。
+このリポジトリ（[https://github.com/vektor-inc/lesson-pattern](https://github.com/vektor-inc/lesson-pattern)）の images ディレクトリに入ってますのでダンロードしてください。ダウンロードしたzipファイルを解凍した中の images フォルダにあります。
 
 ![zipファイルダウンロード](https://raw.githubusercontent.com/vektor-inc/lesson-pattern/main/text-images/download-zip.png "zipファイルダウンロード")
 
