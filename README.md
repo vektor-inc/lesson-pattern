@@ -1,4 +1,4 @@
-# Block Pattern Hands-on
+# ゼロから覚えたくない人のための<br>ブロックエディタ入門
 
 ## https://github.com/vektor-inc/lesson-pattern
 
@@ -23,9 +23,17 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 
 ## 環境構築
 
-### テーマなどインストール済みの環境を使う
+テーマなどインストール済みの環境を使います
 
-練習だけであれば以下のURLから各種セットアップ済みの環境を起動する事ができます。
+### A. 自分のサーバーに用意する
+
+1. 新規WordPress環境を準備
+2. プラグイン [VK FullSite Installer](https://vk-fullsite-installer.com/) をインストール・有効化
+3. X-T9 無料版 プレーン をインポート
+
+### B. 練習用環境を使う（24時間で消失します）
+
+一時的な練習だけであれば以下のURLから各種セットアップ済みの環境を起動する事ができます。
 
 * [練習環境（テーマ : X-T9版）を起動する](https://app.instawp.io/launch?t=-x-t9&d=v2) 
 * [練習環境（テーマ : Lightning版）を起動する](https://app.instawp.io/launch?t=pattarn-lesson-starter&d=v2) 
@@ -34,11 +42,9 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 
 ---
 
-# ページの制作
+# クリニック紹介ページ 1
 
-## クリニック紹介ページの作成
-
-トップページは少し複雑なので、ブロックエディタを初めてさわる人にもわかりやすいようにクリニック紹介ページからやってみましょう。
+トップページは構成が少し複雑なので、ブロックエディタを初めてさわる人にもわかりやすいようにクリニック紹介ページからやってみましょう。
 
 ### 完成イメージ
 
@@ -62,7 +68,9 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 
 * 文章をコピペしてください。
 
-### 施設紹介
+---
+
+# クリニック紹介ページ 2 施設紹介
 
 ここからは手作りすると面倒なのでパターンを使います。
 
@@ -98,7 +106,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/text-with-2-images/
 
 ---
 
-## トップページの制作
+## トップページの制作 1
 
 ここから難しくなりますががんばっていきましょう。  
 まずはトップページに指定してある固定ページの編集画面を開きます。
@@ -137,6 +145,10 @@ https://patterns.vektor-inc.co.jp/vk-patterns/hero_textbox_slider-1/
 
 * スライダーの下に レスポンシブスペーサー ブロックを配置して余白サイズを L に
 
+---
+
+# トップページ 2 お知らせと診療時間
+
 #### ■ お知らせ
 
 * [無料 & 投稿リスト で検索](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-industry=&pattern-category=post-list-section&demo-site=&post_date_date_after=&post_date_date_before=&s=&vkfs_orderby=&vkfs_form_id=11755)
@@ -158,7 +170,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/dental-clinic_reception_time/
 
 ---
 
-#### ■ 診療案内
+# トップページ 3 診療案内
 
 [無料 & セクション & カラムレイアウト](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-type=section&pattern-industry=&pattern-category=column&demo-site=&post_date_date_after=&post_date_date_before=&s=&vkfs_orderby=&vkfs_form_id=11755) で検索
 
@@ -196,7 +208,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/icon-and-card-pr-section-free/
 
 ---
 
-#### ■ 採用情報
+# トップページ 4 採用情報
 
 [無料 & セクション & カラムレイアウト](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-type=section&pattern-industry=&pattern-category=column&demo-site=&post_date_date_after=&post_date_date_before=&s=&vkfs_orderby=&vkfs_form_id=11755) で検索
 
@@ -216,7 +228,9 @@ https://patterns.vektor-inc.co.jp/vk-patterns/10686/
 * 歯科助手
 * 事務・医療事務
 
-#### ■ 地図
+---
+
+# トップページ 4 地図の配置
 
 [地図](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-industry=&pattern-category=map&demo-site=&post_date_date_after=&post_date_date_before=&s=&vkfs_orderby=&vkfs_form_id=11755)で検索
 
@@ -228,7 +242,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/iframe-fullwidth/
 
 ---
 
-#### ■ ご予約・お問い合わせはお気軽にどうぞ
+# トップページ 5 ご予約・お問い合わせはお気軽にどうぞ
 
 * とりあえず見出しとサブテキストを入力しましょう。  
 既に作成済みの見出しとテキストや余白を複製して打ち替えてもOKです。
@@ -267,7 +281,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/iframe-fullwidth/
 一定時間で消えてしまうのでデータをエクスポートしてください。
 ※ エクスポート前にユーザー名・パスワードを確認ください。
 
-プラグイン All in One WP Migration がインストール済みですので、  
+プラグイン All in One WP Migration など、サイト引っ越し用のプラグインをインストールして、  
 管理画面の All in One WP Migration > エクスポート からエクスポートしてください。
 https://ja.wordpress.org/plugins/all-in-one-wp-migration/
 
