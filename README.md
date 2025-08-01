@@ -1,4 +1,4 @@
-# ゼロから覚えたくない人のための<br>ブロックエディタ入門
+# ゼロから覚えたくない人のための<br>WordPressブロックエディタハンズオン
 
 ## https://github.com/vektor-inc/lesson-pattern
 
