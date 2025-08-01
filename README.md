@@ -42,7 +42,7 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 
 ---
 
-# クリニック紹介ページ 1
+## クリニック紹介ページ 1
 
 トップページは構成が少し複雑なので、ブロックエディタを初めてさわる人にもわかりやすいようにクリニック紹介ページからやってみましょう。
 
@@ -70,7 +70,7 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 
 ---
 
-# クリニック紹介ページ 2 施設紹介
+## クリニック紹介ページ 2 施設紹介
 
 ここからは手作りすると面倒なのでパターンを使います。
 
@@ -147,7 +147,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/hero_textbox_slider-1/
 
 ---
 
-# トップページ 2 お知らせと診療時間
+## トップページ 2 お知らせと診療時間
 
 #### ■ お知らせ
 
@@ -170,7 +170,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/dental-clinic_reception_time/
 
 ---
 
-# トップページ 3 診療案内
+## トップページ 3 診療案内
 
 [無料 & セクション & カラムレイアウト](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-type=section&pattern-industry=&pattern-category=column&demo-site=&post_date_date_after=&post_date_date_before=&s=&vkfs_orderby=&vkfs_form_id=11755) で検索
 
@@ -208,7 +208,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/icon-and-card-pr-section-free/
 
 ---
 
-# トップページ 4 採用情報
+## トップページ 4 採用情報
 
 [無料 & セクション & カラムレイアウト](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-type=section&pattern-industry=&pattern-category=column&demo-site=&post_date_date_after=&post_date_date_before=&s=&vkfs_orderby=&vkfs_form_id=11755) で検索
 
@@ -230,7 +230,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/10686/
 
 ---
 
-# トップページ 4 地図の配置
+## トップページ 4 地図の配置
 
 [地図](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-industry=&pattern-category=map&demo-site=&post_date_date_after=&post_date_date_before=&s=&vkfs_orderby=&vkfs_form_id=11755)で検索
 
@@ -242,7 +242,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/iframe-fullwidth/
 
 ---
 
-# トップページ 5 ご予約・お問い合わせはお気軽にどうぞ
+## トップページ 5 ご予約・お問い合わせはお気軽にどうぞ
 
 * とりあえず見出しとサブテキストを入力しましょう。  
 既に作成済みの見出しとテキストや余白を複製して打ち替えてもOKです。
