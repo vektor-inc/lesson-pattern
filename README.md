@@ -2,6 +2,7 @@
 
 ## https://github.com/vektor-inc/lesson-pattern
 
+WordPressのブロックエディタの操作に慣れてない人を対象に  
 ブロックパターンを使ってウェブページを作る事に慣れるためのレッスン素材です。
 
 [ → [オンラインハンズオンの場合の留意事項](https://github.com/vektor-inc/lesson-pattern/blob/main/notice-online.md) ]
