@@ -154,7 +154,9 @@ https://patterns.vektor-inc.co.jp/vk-patterns/dental-clinic_reception_time/
 
 * カラムブロックを配置して 50 - 50 にする
 * 「お知らせ」と「診療時間」を左右に配置
-* カラムブロックのスタイルから間隔を 3rem で指定
+* カラムブロックの スタイル > サイズ から ブロックの間隔を指定
+
+---
 
 #### ■ 診療案内
 
