@@ -25,13 +25,7 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 
 テーマなどインストール済みの環境を使います
 
-### A. 自分のサーバーに用意する
-
-1. 新規WordPress環境を準備
-2. プラグイン [VK FullSite Installer](https://vk-fullsite-installer.com/) をインストール・有効化
-3. X-T9 無料版 プレーン をインポート
-
-### B. 練習用環境を使う（24時間で消失します）
+### A. 練習用環境を使う（24時間で消失します）
 
 一時的な練習だけであれば以下のURLから各種セットアップ済みの環境を起動する事ができます。
 
@@ -39,6 +33,13 @@ https://pattern-lesson.instawp.xyz/clinic-introduction/
 * [練習環境（テーマ : Lightning版）を起動する](https://app.instawp.io/launch?t=pattarn-lesson-starter&d=v2) 
 
 ※ この環境は24時間で消失します。練習後のデータがほしい場合はご自身でエクスポートしてください。  
+※ 同時起動数に限りがあります。他の人がたくさん使用している時は使えません。
+
+### B. 自分のサーバーに用意する（推奨）
+
+1. 新規WordPress環境を準備
+2. プラグイン [VK FullSite Installer](https://vk-fullsite-installer.com/) をインストール・有効化
+3. X-T9 無料版 プレーン をインポート
 
 ---
 
