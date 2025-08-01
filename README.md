@@ -194,6 +194,8 @@ https://patterns.vektor-inc.co.jp/vk-patterns/icon-and-card-pr-section-free/
 予防歯科  
 虫歯にならないための予防・歯磨きなどの指導を丁寧にします。
 
+---
+
 #### ■ 採用情報
 
 [無料 & セクション & カラムレイアウト](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-type=section&pattern-industry=&pattern-category=column&demo-site=&post_date_date_after=&post_date_date_before=&s=&vkfs_orderby=&vkfs_form_id=11755) で検索
@@ -224,11 +226,13 @@ https://patterns.vektor-inc.co.jp/vk-patterns/iframe-fullwidth/
 * Google Map を開いて、表示したい箇所を表示
 * 埋め込み用の iframe のコードをコピーして、HTMLブロックの中身を差し替え
 
+---
+
 #### ■ ご予約・お問い合わせはお気軽にどうぞ
 
 * とりあえず見出しとサブテキストを入力しましょう。  
 既に作成済みの見出しとテキストや余白を複製して打ち替えてもOKです。
-* ヒーローエリア下の診療時間の部分を選択し、肢、ツールバーから パターンを作成 > 同期（再利用ブロック） の手順で同期パターンを作成します。名前は「診療時間表」にしておきます。
+* ヒーローエリア下の診療時間の部分を選択し、ツールバーから パターンを作成 > 同期 の手順で同期パターンを作成します。名前は「診療時間表」にしておきます。
 * ページ最下部に戻って、新規挿入で、先程作成した 診療時間表 の同期パターンを配置します。
 * [電話番号とお問い合わせ](https://patterns.vektor-inc.co.jp/vk-patterns/business-tel-and-button-vertical/) のパターンを配置
 * 以下の文字を打ち替え
@@ -253,6 +257,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/iframe-fullwidth/
 ##### グループ化と区切り線
 
 * 地図から下の部分をグループ化
+* 全幅
 * グループブロックの上部に2pxの線を指定
 
 ---
