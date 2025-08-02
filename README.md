@@ -177,7 +177,7 @@ https://patterns.vektor-inc.co.jp/vk-patterns/dental-clinic_reception_time/
 [無料 & セクション & カラムレイアウト](https://patterns.vektor-inc.co.jp/?post_type=vk-patterns&supported-themes=&license-classification=free&pattern-type=section&pattern-industry=&pattern-category=column&demo-site=&post_date_date_after=&post_date_date_before=&s=&vkfs_orderby=&vkfs_form_id=11755) で検索
 
 お手本では以下を使用  
-https://patterns.vektor-inc.co.jp/vk-patterns/icon-and-card-pr-section-free/
+https://patterns.vektor-inc.co.jp/vk-patterns/22285/
 
 * とりあえず背景画像を変更
 * 以下科目を入力
